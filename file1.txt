@@ -1,0 +1,6 @@
+
+Name of the patient: -qw
+Registration number: -12
+Bed number: -12
+Contact Number: -12
+Amount: -1212.000000No discount
